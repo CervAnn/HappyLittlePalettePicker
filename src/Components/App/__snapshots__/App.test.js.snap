@@ -10,23 +10,23 @@ exports[`App should match snapshot 1`] = `
     currentPalette={
       Array [
         Object {
-          "color": "#dce8a8",
+          "color": "#539bb4",
           "isLocked": false,
         },
         Object {
-          "color": "#ace948",
+          "color": "#740817",
           "isLocked": false,
         },
         Object {
-          "color": "#bedc4c",
+          "color": "#1be9fb",
           "isLocked": false,
         },
         Object {
-          "color": "#ade561",
+          "color": "#d20491",
           "isLocked": false,
         },
         Object {
-          "color": "#b1e2b5",
+          "color": "#99d60c",
           "isLocked": false,
         },
       ]
